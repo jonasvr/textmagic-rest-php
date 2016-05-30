@@ -1,5 +1,5 @@
 {
-    "name": "js0nvr/textmagic/sdk",
+    "name": "js0nvr/textmagic",
     "type": "library",
     "description": "A PHP wrapper for Textmagic API",
     "keywords": ["textmagic", "sms", "api"],
